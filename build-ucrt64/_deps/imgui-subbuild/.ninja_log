@@ -1,0 +1,21 @@
+# ninja log v7
+3	125	8144756674323661	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	3fc83f3a22621f74
+3	125	8144756674323661	C:/ProyectoMedioSemestre/build-ucrt64/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	3fc83f3a22621f74
+126	2357	8144756696586824	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	5fd2dbd3ff0db3f5
+126	2357	8144756696586824	C:/ProyectoMedioSemestre/build-ucrt64/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	5fd2dbd3ff0db3f5
+2357	2538	8144756698427310	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	2fa9cd2b8bc6ccb4
+2357	2538	8144756698427310	C:/ProyectoMedioSemestre/build-ucrt64/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	2fa9cd2b8bc6ccb4
+2539	2672	8144756699782576	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	1a7d540ab734949
+2539	2672	8144756699782576	C:/ProyectoMedioSemestre/build-ucrt64/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	1a7d540ab734949
+2672	2799	8144756701063062	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	3a39d0af1c509040
+2672	2799	8144756701063062	C:/ProyectoMedioSemestre/build-ucrt64/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	3a39d0af1c509040
+2800	2922	8144756702288255	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	651c81870d79b882
+2800	2922	8144756702288255	C:/ProyectoMedioSemestre/build-ucrt64/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	651c81870d79b882
+2922	3041	8144756703455066	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	ec9b1b3c8f0840c7
+2922	3041	8144756703455066	C:/ProyectoMedioSemestre/build-ucrt64/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	ec9b1b3c8f0840c7
+3041	3222	8144756705291280	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	cbe1ebf7a065f05
+3041	3222	8144756705291280	C:/ProyectoMedioSemestre/build-ucrt64/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	cbe1ebf7a065f05
+3223	3377	8144756706836605	CMakeFiles/imgui-populate-complete	7050efe6f0a2b2a6
+3223	3377	8144756706836605	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	7050efe6f0a2b2a6
+3223	3377	8144756706836605	C:/ProyectoMedioSemestre/build-ucrt64/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	7050efe6f0a2b2a6
+3223	3377	8144756706836605	C:/ProyectoMedioSemestre/build-ucrt64/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	7050efe6f0a2b2a6

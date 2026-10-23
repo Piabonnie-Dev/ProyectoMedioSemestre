@@ -1,0 +1,22 @@
+# ninja log v7
+119	2605	8144756844746792	CMakeFiles/visualizador.dir/src/Model.cpp.obj	3a7a0e02e6686e01
+157	2613	8144756845142107	CMakeFiles/visualizador.dir/src/Camera.cpp.obj	bbf8657a21162349
+232	2729	8144756845872123	CMakeFiles/test_obj.dir/src/SurfaceGenerator.cpp.obj	34ee2bda891520ca
+219	2733	8144756845752116	CMakeFiles/test_obj.dir/src/Model.cpp.obj	17653acee65786b9
+142	2748	8144756845016857	CMakeFiles/visualizador.dir/src/SurfaceGenerator.cpp.obj	feccc5c051a0dadf
+172	2754	8144756845272119	CMakeFiles/visualizador.dir/src/Shader.cpp.obj	4a499e06532b105d
+90	2853	8144756844456792	CMakeFiles/visualizador.dir/src/main.cpp.obj	2760f6a3b0d634bb
+80	2861	8144756844356779	CMakeFiles/imgui.dir/_deps/imgui-src/backends/imgui_impl_opengl3.cpp.obj	60151bb3a3886236
+195	2957	8144756845532113	CMakeFiles/test_obj.dir/tests/test_obj.cpp.obj	d78e7f069186d476
+130	3031	8144756844876806	CMakeFiles/visualizador.dir/src/OBJLoader.cpp.obj	fbcaee08a6a985c9
+210	3145	8144756845652141	CMakeFiles/test_obj.dir/src/OBJLoader.cpp.obj	d81ff76caa11874f
+50	3307	8144756844061534	CMakeFiles/imgui.dir/_deps/imgui-src/imgui_tables.cpp.obj	85d264b689867c8d
+70	3340	8144756844256788	CMakeFiles/imgui.dir/_deps/imgui-src/backends/imgui_impl_glfw.cpp.obj	67fb3ee260701ef7
+183	3421	8144756845392125	CMakeFiles/visualizador.dir/src/Renderer.cpp.obj	daefe97fac81dcbe
+103	3467	8144756844586765	CMakeFiles/visualizador.dir/src/Application.cpp.obj	bb92e5fc646adbc3
+3146	3541	8144756875008310	test_obj.exe	a4bbb2ecbf9b3b97
+40	3968	8144756843951432	CMakeFiles/imgui.dir/_deps/imgui-src/imgui_draw.cpp.obj	908aa2fa47562db5
+60	4427	8144756844156785	CMakeFiles/imgui.dir/_deps/imgui-src/imgui_widgets.cpp.obj	527915dc3bf50547
+31	5250	8144756843871454	CMakeFiles/imgui.dir/_deps/imgui-src/imgui.cpp.obj	fdcf83542ef2d5e5
+5251	5546	8144756896060436	libimgui.a	ac727710ece389c4
+5546	6720	8144756899012279	visualizador.exe	1be9425095fbfdaf
